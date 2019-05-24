@@ -14,10 +14,15 @@ In this competition, the participant should design a deep learning model using S
 # Reference
 
 [1]. K. Nasrollahi and T. B. Moeslund. Super-resolution: A comprehensive survey. In Machine Vision and Applications, volume 25, pages 1423–1468. 2014.
+
 [2]. Johnson, Justin; Alahi, Alexandre; Fei-Fei, Li (2016-03-26). "Perceptual Losses for Real-Time Style Transfer and Super-Resolution". arXiv:1603.08155
+
 [3]. Ledig, C., Theis,L., Huszar,F., Caballero,J., Cunningham,A.,Acosta,A., Aitken, A.P., Tejani, A., Totz, J., Wang, Z., et al.: Photo-realistic single image super- resolution using a generative adversarial network. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. pp. 4681–4690 (2017)
+
 [4]. https://www.pirm2018.org/PIRM-SR.html 
+
 [5]. A. Mittal, R. Soundararajan and A. C. Bovik, "Making a “Completely Blind” Image Quality Analyzer," in IEEE Signal Processing Letters, vol. 20, no. 3, pp. 209-212, March 2013.
+
 [6]. Ma C , Yang C Y , Yang X , et al. Learning a No-Reference Quality Metric for Single-Image Super-Resolution[J]. Computer Vision & Image Understanding, 2016.
 
 
