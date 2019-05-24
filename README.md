@@ -11,7 +11,6 @@ In this competition, the participant should design a deep learning model using S
 
 ![image](https://www.pirm2018.org/img/regions.svg)
 
-# Dataset 
 
 # Reference
 
