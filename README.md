@@ -9,6 +9,8 @@ Nowadays, following the renaissance of deep learning, there is promising researc
 
 In this competition, the participant should design a deep learning model using SOTA strategies like CNN/GAN to do the 4x SR upscaling for images which were down-sampled with a bicubic kernel. The evaluation will be done in a perceptual-quality aware manner. The perceptual index (PI) defined in pirm2018 [4] will be used to calculate the quality of the reconstructed high-resolution images. Lower PI means higher quality of the reconstructed image. Ma and NIQE are two no-reference image quality measures [5-6].
 
+![image](https://www.pirm2018.org/img/regions.svg)
+
 # Dataset 
 
 # Reference
